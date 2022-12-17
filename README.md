@@ -4,3 +4,4 @@
 <h1>Antes de empezar!</h1>
 
 Remplaza las imagenes "png" de la carpeta PJs para tener personajes mas divertidos!
+manten los nombres o reemplazalos en script.js
