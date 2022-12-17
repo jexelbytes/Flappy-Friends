@@ -1,0 +1,15 @@
+body{
+    color:white ;
+    background-color: black;
+}
+
+canvas{
+    border: solid white 1px;
+    margin: auto;
+    position: relative;
+    margin-top: 10%;
+    left: 50%;
+    transform: translate(-50%);
+    background: rgb(64,250,255);
+    background: linear-gradient(0deg, rgba(64,250,255,1) 0%, rgb(61, 106, 255) 1%, rgba(84,226,255,1) 100%);
+}
